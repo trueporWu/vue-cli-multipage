@@ -1,5 +1,5 @@
 # vue-cli多页面
-
+https://segmentfault.com/a/1190000006741478 
 ## 更新
 1. css autoprefix的问题
   @luchanan的方案，具体可以参考[https://github.com/luchanan/vue2.0-multi-page](https://github.com/luchanan/vue2.0-multi-page)
